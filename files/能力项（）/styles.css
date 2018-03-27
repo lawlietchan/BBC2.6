@@ -325,3 +325,27 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u7327_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:243px;
+}
+#u7327 {
+  border-width:0px;
+  position:absolute;
+  left:36px;
+  top:139px;
+  width:300px;
+  height:243px;
+}
+#u7328 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
+}
