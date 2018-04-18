@@ -266,3 +266,28 @@
   height:603px;
   overflow:auto;
 }
+#u3685_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:24px;
+  height:24px;
+}
+#u3685 {
+  border-width:0px;
+  position:absolute;
+  left:294px;
+  top:32px;
+  width:24px;
+  height:24px;
+}
+#u3686 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:20px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
